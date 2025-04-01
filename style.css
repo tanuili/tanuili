@@ -1,5 +1,14 @@
 body {
     background-color: rgb(77, 77, 77);
-    color: rgb(130, 130, 130);
+    color: rgb(70, 177, 170);
     font-size: medium;
+}
+
+button {
+    border-radius: 10%;
+    background-color: lightblue;
+}
+
+hr {
+    color: red;
 }
